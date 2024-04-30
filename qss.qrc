@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>QLineEditPasswordStyle.qss</file>
+    </qresource>
+    <qresource prefix="/pictures">
+        <file>password_hide.png</file>
+        <file>password_show.png</file>
+        <file>med_pic/0.jpeg</file>
+        <file>med_pic/1.jpeg</file>
+        <file>med_pic/2.jpeg</file>
+        <file>med_pic/3.jpeg</file>
+        <file>med_pic/4.jpeg</file>
+        <file>med_pic/5.jpeg</file>
+        <file>med_pic/6.jpeg</file>
+        <file>med_pic/7.jpeg</file>
+        <file>med_pic/8.jpeg</file>
+        <file>med_pic/9.jpeg</file>
+        <file>med_pic/10.jpeg</file>
+        <file>med_pic/11.jpeg</file>
+        <file>med_pic/12.jpeg</file>
+    </qresource>
+</RCC>
